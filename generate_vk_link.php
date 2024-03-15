@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ссылка на музыку из ВКонтакте</title>
+    <title>URL</title>
 </head>
 <body>
     <h1>Ссылка на музыку из ВКонтакте</h1>
